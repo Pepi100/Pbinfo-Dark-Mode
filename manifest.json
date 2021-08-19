@@ -1,0 +1,12 @@
+{
+    "name": "Pbinfo Dark Mode",
+    "short_name":"Pb Dark",
+    "version":"1.0.0",
+    "manifest_version":2,
+    "description":"<<do be added>>",
+    "permissions":["tabs","activeTab"],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+      }
+}
